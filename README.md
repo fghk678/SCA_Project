@@ -1,4 +1,4 @@
-This is the code repository for reproducing the work of the paper "Identifiable Shared Component Analysis of Unpaired Multimodal Mixtures" [1].
+This is the code repository for reproducing the work in the paper "Identifiable Shared Component Analysis of Unpaired Multimodal Mixtures" [1].
 
 [1] Subash Timilsina, Sagar Shrestha, and Xiao Fu. Identifiable shared component analysis of unpaired multimodal mixtures. Advances in neural information processing systems, 37, 2025.
 # Instructions
